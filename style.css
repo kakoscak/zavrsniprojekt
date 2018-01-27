@@ -267,6 +267,6 @@ body {
 	height: 500px;
 }
 
-span {
-width: 100%
+.fb_iframe_widget {
+width: 100%;
 }
